@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T09:03:33.544Z" agent="5.0 (Windows)" etag="HHbIOELDL7xQqt3-dEEj" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-09T09:09:25.365Z" agent="5.0 (Windows)" etag="E-9Jbd9ZMra6RY7NymE7" version="14.9.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="mM4xZMxqIYVrbbXNMaOM-5" value="&lt;div&gt;DV065&lt;/div&gt;&lt;div&gt;OI Proposal&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="170" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="mM4xZMxqIYVrbbXNMaOM-6" value="OI Review" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mM4xZMxqIYVrbbXNMaOM-6" value="OI Review" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontStyle=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="70" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mM4xZMxqIYVrbbXNMaOM-7" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mM4xZMxqIYVrbbXNMaOM-6">
@@ -33,6 +33,30 @@
               <mxPoint x="360" y="400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mM4xZMxqIYVrbbXNMaOM-8" value="&lt;div&gt;DV001&lt;/div&gt;&lt;div&gt;Business Opportunities&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="170" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mM4xZMxqIYVrbbXNMaOM-9" value="Information Secruity" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontStyle=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="413.5" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mM4xZMxqIYVrbbXNMaOM-10" value="Architecture Design" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontStyle=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mM4xZMxqIYVrbbXNMaOM-11" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549.5" y="150" as="sourcePoint" />
+            <mxPoint x="549.5" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="549.5" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM4xZMxqIYVrbbXNMaOM-12" value="&lt;div&gt;DV051&lt;/div&gt;&lt;div&gt;ADB&lt;br&gt;&lt;/div&gt;&lt;div&gt;Impact Assessment&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="290" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mM4xZMxqIYVrbbXNMaOM-13" value="&lt;div&gt;DV002&lt;/div&gt;&lt;div&gt;Project Proposal&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="170" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
